@@ -1,4 +1,4 @@
-# login_signup
+# flutter-random-words
 
 A new Flutter project.
 
